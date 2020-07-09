@@ -7,4 +7,4 @@ I'm working on a side project with a friend, it's a react native app that has so
 
 I have a certificate from the University of Arizona's 24 week full stack bootcamp.  
 
-I like working on web projects and playing music.
+I like working on coding projects and playing music.
