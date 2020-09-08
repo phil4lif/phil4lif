@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm a full stack developer residing in Phoenix.
+I'm a full stack engineer residing in Phoenix.
 
-I'm currently working on a project with a friend, it's a react native app that has something to do with food trucks and their customers.
+I'm currently working at StormFire Technologies as a front end engineer on a mobile app built in React Native.
+I'm also working on a side project with a friend, it's also a react native app, it connects food trucks and customers.
 
-I like working on coding projects and playing music.
+Outside of work I like to play, write, and record music. 
 
 
 https://philipcowan.net/
