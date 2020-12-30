@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as a Tutor and Teaching Assitant at Trilogy Education and at Sunami LLC as a mobile developer.
+I'm a Tutor and Teaching Assitant at Trilogy Education Coding Boot Camps and a Mobile Developer at Sunami LLC.
 
 
 https://philipcowan.net/
